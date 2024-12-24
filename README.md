@@ -1,18 +1,18 @@
-# ERobotSanta16z
+# RobotSanta16z
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/10/a7/d9/10a7d9dc9e3f899e944cfc8478c3f679.jpg" alt="Eliza Banner" width="100%" />
+  <img src="https://i.pinimg.com/originals/10/a7/d9/10a7d9dc9e3f899e944cfc8478c3f679.jpg" alt="RobotSanta16z Banner" width="100%" />
 </div>
 
 <div align="center">
 
-📖 [Documentation](https://elizaos.github.io/eliza/) | 🎯 [Examples](https://github.com/thejoven/awesome-eliza)
+📖 [Documentation](https://RobotSanta16zos.github.io/RobotSanta16z/) | 🎯 [Examples](https://github.com/thejoven/awesome-RobotSanta16z)
 
 </div>
 
 ## 🌍 README Translations
 
-[中文说明](./README_CN.md) | [日本語の説明](./README_JA.md) | [한국어 설명](./README_KOR.md) | [Français](./README_FR.md) | [Português](./README_PTBR.md) | [Türkçe](./README_TR.md) | [Русский](./README_RU.md) | [Español](./README_ES.md) | [Italiano](./README_IT.md) | [ไทย](./README_TH.md) | [Deutsch](./README_DE.md) | [Tiếng Việt](./README_VI.md) | [עִברִית](https://github.com/elizaos/Elisa/blob/main/README_HE.md)
+[中文说明](./README_CN.md) | [日本語の説明](./README_JA.md) | [한국어 설명](./README_KOR.md) | [Français](./README_FR.md) | [Português](./README_PTBR.md) | [Türkçe](./README_TR.md) | [Русский](./README_RU.md) | [Español](./README_ES.md) | [Italiano](./README_IT.md) | [ไทย](./README_TH.md) | [Deutsch](./README_DE.md) | [Tiếng Việt](./README_VI.md) | [עִברִית](https://github.com/RobotSanta16zos/Elisa/blob/main/README_HE.md)
 
 ## ✨ Features
 
@@ -50,28 +50,28 @@
 ### Use the Starter (Recommended)
 
 ```bash
-git clone https://github.com/elizaos/eliza-starter.git
-cd eliza-starter
+git clone https://github.com/RobotSanta16zos/RobotSanta16z-starter.git
+cd RobotSanta16z-starter
 cp .env.example .env
 pnpm i && pnpm build && pnpm start
 ```
 
-Then read the [Documentation](https://elizaos.github.io/eliza/) to learn how to customize your Eliza.
+Then read the [Documentation](https://RobotSanta16zos.github.io/RobotSanta16z/) to learn how to customize your RobotSanta16z.
 
-### Manually Start Eliza (Only recommended if you know what you are doing)
+### Manually Start RobotSanta16z (Only recommended if you know what you are doing)
 
 ```bash
 # Clone the repository
-git clone https://github.com/elizaos/eliza.git
+git clone https://github.com/RobotSanta16zos/RobotSanta16z.git
 
 # Checkout the latest release
 # This project iterates fast, so we recommend checking out the latest release
 git checkout $(git describe --tags --abbrev=0)
 ```
 
-### Start Eliza with Gitpod
+### Start RobotSanta16z with Gitpod
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/elizaos/eliza/tree/main)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/RobotSanta16zos/RobotSanta16z/tree/main)
 
 ### Edit the .env file
 
@@ -83,7 +83,7 @@ cp .env.example .env
 
 Note: .env is optional. If your planning to run multiple distinct agents, you can pass secrets through the character JSON
 
-### Automatically Start Eliza
+### Automatically Start RobotSanta16z
 
 This will run everything to setup the project and start the bot with the default character.
 
@@ -101,7 +101,7 @@ sh scripts/start.sh
 3. Connect with X (Twitter)
     - change `"clients": []` to `"clients": ["twitter"]` in the character file to connect with X
 
-### Manually Start Eliza
+### Manually Start RobotSanta16z
 
 ```bash
 pnpm i
@@ -122,15 +122,15 @@ pnpm install --include=optional sharp
 
 ### Community & contact
 
-- [GitHub Issues](https://github.com/elizaos/eliza/issues). Best for: bugs you encounter using Eliza, and feature proposals.
+- [GitHub Issues](https://github.com/RobotSanta16zos/RobotSanta16z/issues). Best for: bugs you encounter using RobotSanta16z, and feature proposals.
 - [Discord](https://discord.gg/ai16z). Best for: sharing your applications and hanging out with the community.
 
 ## Contributors
 
-<a href="https://github.com/elizaos/eliza/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=elizaos/eliza" />
+<a href="https://github.com/RobotSanta16zos/RobotSanta16z/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=RobotSanta16zos/RobotSanta16z" />
 </a>
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=elizaos/eliza&type=Date)](https://star-history.com/#elizaos/eliza&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=RobotSanta16zos/RobotSanta16z&type=Date)](https://star-history.com/#RobotSanta16zos/RobotSanta16z&Date)
