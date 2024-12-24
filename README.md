@@ -1,7 +1,7 @@
-# Eliza 🤖
+# ERobotSanta16z
 
 <div align="center">
-  <img src="./docs/static/img/eliza_banner.jpg" alt="Eliza Banner" width="100%" />
+  <img src="https://i.pinimg.com/originals/10/a7/d9/10a7d9dc9e3f899e944cfc8478c3f679.jpg" alt="Eliza Banner" width="100%" />
 </div>
 
 <div align="center">
